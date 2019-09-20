@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3630cab12e2fac7fa859afab04134de",
+    "revision": "dc4c48e0dc3269e1af9a7f9367b033cb",
     "url": "/massage-site/index.html"
   },
   {
-    "revision": "32c05a6f400874f0cc2e",
+    "revision": "f437ca7e6f3b93d20a67",
     "url": "/massage-site/static/css/main.7c93ebe9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massage-site/static/js/2.3dbe60f5.chunk.js"
   },
   {
-    "revision": "32c05a6f400874f0cc2e",
-    "url": "/massage-site/static/js/main.209a7f5b.chunk.js"
+    "revision": "f437ca7e6f3b93d20a67",
+    "url": "/massage-site/static/js/main.5e674cf5.chunk.js"
   },
   {
     "revision": "6c40a96f6a2fb83c4f69",
