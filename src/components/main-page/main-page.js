@@ -2,11 +2,9 @@ import React, { Component } from 'react';
 import AboutMe from "../about-me/about-me";
 import Massage from "../massage/massage";
 import FitBall from "../fitball/fitball";
-import CertificatesList from "../certificates-list/certificates-list";
 import GoTop from "../go-top/go-top";
 import FirstScreen from "../first-screen/first-screen";
 import Feedback from "../feedback/feedback";
-import { Route } from 'react-router-dom';
 
 export default class MainPage extends Component{
     state = {
@@ -44,8 +42,6 @@ export default class MainPage extends Component{
 
 
     render() {
-        let certificates = this.state.canSee ? <CertificatesList exitClick={this.buttonClick} /> : undefined;
-
         return(
             <div onScroll={this.scrolling}>
                 {this.state.goUp ? <GoTop /> : undefined}
