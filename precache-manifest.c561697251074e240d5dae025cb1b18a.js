@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3095e49ba309f1ba1e6d94e915278ad",
+    "revision": "a903b0459a9bd7ade91b51718c05c24d",
     "url": "/massage-sile/index.html"
   },
   {
-    "revision": "0d6860df4f7f0b6d90b4",
-    "url": "/massage-sile/static/css/main.293e2b7a.chunk.css"
+    "revision": "32c05a6f400874f0cc2e",
+    "url": "/massage-sile/static/css/main.7c93ebe9.chunk.css"
   },
   {
     "revision": "ebe7547914b1d995229d",
     "url": "/massage-sile/static/js/2.3dbe60f5.chunk.js"
   },
   {
-    "revision": "0d6860df4f7f0b6d90b4",
-    "url": "/massage-sile/static/js/main.df89af87.chunk.js"
+    "revision": "32c05a6f400874f0cc2e",
+    "url": "/massage-sile/static/js/main.209a7f5b.chunk.js"
   },
   {
     "revision": "65173bf7fec0faeca09a",
