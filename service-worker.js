@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LegeArtis/massage-sile.git/precache-manifest.9dcc3391df2a16b8fde3deebfbe1d392.js"
+  "/LegeArtis/massage-sile.git/precache-manifest.c5582d731396676c7d760570da20fab5.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2ea49d43eab1441b361af0f1c376dcd",
+    "revision": "a1e10bcc1c003ffceefa9e6a6493ccd2",
     "url": "/LegeArtis/massage-sile.git/index.html"
   },
   {
-    "revision": "053b5f624a1281c00cf5",
-    "url": "/LegeArtis/massage-sile.git/static/css/main.c07df8bd.chunk.css"
+    "revision": "0d6860df4f7f0b6d90b4",
+    "url": "/LegeArtis/massage-sile.git/static/css/main.293e2b7a.chunk.css"
   },
   {
-    "revision": "0c285c13acff23189b20",
-    "url": "/LegeArtis/massage-sile.git/static/js/2.7f2b9607.chunk.js"
+    "revision": "ebe7547914b1d995229d",
+    "url": "/LegeArtis/massage-sile.git/static/js/2.3dbe60f5.chunk.js"
   },
   {
-    "revision": "053b5f624a1281c00cf5",
-    "url": "/LegeArtis/massage-sile.git/static/js/main.f7c49196.chunk.js"
+    "revision": "0d6860df4f7f0b6d90b4",
+    "url": "/LegeArtis/massage-sile.git/static/js/main.df89af87.chunk.js"
   },
   {
     "revision": "209aee7b60847abc72b3",
