@@ -1,0 +1,30 @@
+.pagination {
+    font-family: "Comic Sans MS", serif;
+    font-size: 1.6vw;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.pagination_button {
+    outline: none;
+    border: none;
+    background-color: #F4F0F0;
+    font-size: 1.6vw;
+    font-family: "Comic Sans MS", serif;
+    margin: 0 5px;
+}
+
+.pagination_button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.pagination_current {
+    background-color: #F7C78A;
+    margin: 0 5px;
+    min-width: 20px;
+    display: inline-block;
+}

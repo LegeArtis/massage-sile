@@ -1,0 +1,52 @@
+.about_me {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+}
+
+.ann {
+    position: relative;
+    width: 80%;
+    height: auto;
+    top: 150px;
+    left: 10%;
+}
+
+.about_me_title {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 30px;
+    border-bottom: #242424 3px solid;
+    text-align: center;
+    width: 130px;
+}
+
+.about {
+    position: relative;
+    width: 80%;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+    left: 10%;
+    padding: 50px 0;
+    font-size: 1.5vw;
+}
+
+.button_look {
+    font-family: "Comic Sans MS", serif;
+    height: 60px;
+    width: 210px;
+    border: #242424 2px solid;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #F4F0F0;
+    margin-top: 50px;
+}
+
+.button_look:hover {
+    background-color: #242424;
+    color: #F4F0F0;
+    cursor: pointer;
+}

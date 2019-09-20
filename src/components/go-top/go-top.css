@@ -1,0 +1,7 @@
+.go_top {
+    position: fixed;
+    right: 1%;
+    bottom: 5%;
+    width: 50px;
+    z-index: 5;
+}
