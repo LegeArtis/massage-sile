@@ -283,18 +283,6 @@ export default class GoodToKnow extends Component {
         })
     };
 
-    // openArticle = (e) => {
-    //     this.setState({
-    //         openArticleIndex: e.target.id
-    //     })
-    // };
-    //
-    // closeArticle = () => {
-    //     this.setState({
-    //         openArticleIndex: undefined
-    //     })
-    // };
-
     clickNext = ()=> {
         this.setState(({currentPage})=>{
             return {

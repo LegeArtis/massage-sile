@@ -2,7 +2,7 @@
   "name": "personal_massage_site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/LegeArtis/massage-sile.git",
+  "homepage": "https://LegeArtis.github.io/massage-sile",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
