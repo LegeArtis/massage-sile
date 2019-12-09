@@ -1,0 +1,49 @@
+.first_screen_block{
+    font-family: "Comic Sans MS", serif;
+    position: relative;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+
+.main_photo_mobile {
+    position: relative;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.rock {
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    width: 28%;
+}
+
+.rock .rock_img {
+    position: relative;
+    width: 100%;
+}
+
+.rock .rock_p {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    width: 80%;
+    font-size: 1.6vw;
+    text-align: center;
+}
+
+.quote {
+    text-align: center;
+    position: absolute;
+    top: 47%;
+    left: 52%;
+    width: 25%;
+    color: #242424;
+    font-size: 1.2vw;
+}
+
+.main_photo {
+    width: 100%;
+}

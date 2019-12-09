@@ -1,0 +1,67 @@
+.blog_item {
+    position: relative;
+    width: 80%;
+    left: 10%;
+}
+
+.blog_item_img {
+    left: 0;
+    position: relative;
+    width: 100%;
+}
+
+.blog_item_subs {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 1fr 3fr 1fr;
+    grid-template-rows: 1fr 3fr 1fr;
+    position: relative;
+    top: -2.2vw;
+    left: 2vw;
+    text-align: center;
+    height: auto;
+    background-color: #F7C78A;
+    width: 100%;
+}
+
+.blog_item_text {
+    padding: 0 1.5vw;
+    font-size: 1.3vw;
+    display: block;
+    -ms-grid-row: 2;
+    -ms-grid-column: 1;
+}
+
+.blog_item_subs a {
+    display: block;
+    -ms-grid-row: 3;
+    -ms-grid-column: 1;
+}
+
+.blog_item_title {
+    display: block;
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    font-size: 1.35vw;
+}
+
+.blog_item_read {
+    box-sizing: border-box;
+    text-align: right;
+    position: relative;
+    padding: 0 25px;
+    bottom: 0;
+    width: 100%;
+    font-size: 1.35vw;
+    color: #242424;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.blog_item_read:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}

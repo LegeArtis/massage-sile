@@ -1,0 +1,55 @@
+.add_blog_block {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1.5fr 1fr;
+    grid-template-columns: 1.5fr 1fr;
+    padding: 0 50px;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", serif;
+}
+
+.add_input {
+    font-family: "Comic Sans MS", serif;
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border: none;
+    margin-top: 15px;
+    height: 30px;
+    width: 50%;
+    outline: none;
+    font-size: 1.3vw;
+    padding-left: 5px;
+}
+
+.add_button {
+    font-family: "Comic Sans MS", serif;
+    background-color: #f7c78a;
+    font-size: 25px;
+    height: 45px;
+}
+
+.add_button:hover {
+    cursor: pointer;
+    color: #F4F0F0;
+    background-color: #242424;
+}
+
+.add_textarea {
+    position: relative;
+    width: 80%;
+    left: 10%;
+    margin-top: 15px;
+    display: block;
+    font-family: "Comic Sans MS", serif;
+    font-size: 1.3vw;
+    height: 250px;
+    resize: none;
+}
+
+.add_blog_preview {
+    position: relative;
+    align-self: center;
+    max-width: 400px;
+}

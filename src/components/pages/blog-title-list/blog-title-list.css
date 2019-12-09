@@ -1,0 +1,30 @@
+.ul_blog_list_title {
+    position: relative;
+    width: 50%;
+    left: 25%;
+    list-style: none;
+}
+
+.li_blog_list_title {
+    position: relative;
+}
+
+.h3_blog_list_title {
+    width: 90%;
+    display: inline-block;
+    margin: 5px 0;
+}
+
+.button_blog_list_title {
+    background-color: #f7c78a;
+    color: red;
+    border: none;
+    width: 25px;
+    height: 25px;
+    font-size: 22px;
+}
+
+.button_blog_list_title:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}

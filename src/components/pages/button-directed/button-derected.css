@@ -1,0 +1,32 @@
+.secret_page_button {
+    margin-top: 15px;
+    width: 70%;
+    height: 50px;
+    font-family: "Comic Sans MS", serif;
+    font-size: 25px;
+    background-color: #f7c78a;
+    outline: none;
+    border: none;
+}
+
+.secret_page_button:hover {
+    cursor: pointer;
+}
+
+.button_text:hover {
+    transform: scale(1.1);
+}
+
+.button_text{
+    display: inline-block;
+    margin: 0 0 0 20px;
+}
+
+.button_dir_true {
+    display: inline-block;
+    transform: rotate(90deg);
+}
+
+.button_dir_false {
+    display: inline-block;
+}

@@ -1,6 +1,8 @@
 .lds-facebook {
-    display: inline-block;
+    display: block;
     position: relative;
+    left: 50%;
+    transform: translateX(-50%);
     width: 64px;
     height: 64px;
 }

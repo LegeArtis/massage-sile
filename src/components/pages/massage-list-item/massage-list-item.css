@@ -1,0 +1,49 @@
+.list_item {
+    position: relative;
+    width: 80%;
+    justify-self: center;
+}
+
+.list_item_img {
+    position: relative;
+    width: 80%;
+}
+
+.list_item_subs {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 1fr 4fr 1fr;
+    grid-template-rows: 1fr 4fr 1fr;
+    position: relative;
+    left: 30px;
+    top: -6%;
+    background-color: #F4F0F0;
+    text-align: center;
+    height: 70%;
+    max-height: 600px;
+}
+
+.list_item_text {
+    padding: 0 1.5vw;
+    font-size: 18px;
+    display: block;
+    -ms-grid-column: 1;
+    -ms-grid-row: 2;
+}
+
+.list_item_title {
+    -ms-grid-column: 1;
+    -ms-grid-row: 1;
+    font-size: 24px;
+    display: block;
+}
+
+.list_item_price {
+    -ms-grid-column: 1;
+    -ms-grid-row: 3;
+    display: block;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+}

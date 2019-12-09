@@ -1,0 +1,70 @@
+.about_me {
+    position: relative;
+    width: 100%;
+    max-width: 1400px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: auto;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1.5fr;
+    grid-template-columns: 1fr 1.5fr;
+}
+
+.ann {
+    position: relative;
+    max-width: 100%;
+    -ms-grid-column: 1;
+    -ms-grid-row: 1;
+    max-height: 55%;
+    height: auto;
+    top: 150px;
+    left: 10%;
+    display: block;
+}
+
+.about_me_text {
+    font-size: 20px;
+}
+
+.about_me_title {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 30px;
+    border-bottom: #242424 3px solid;
+    text-align: center;
+    width: 130px;
+}
+
+.about {
+    position: relative;
+    width: 80%;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+    left: 10%;
+    padding: 50px 0;
+    font-size: 1.5vw;
+    -ms-grid-column: 2;
+    -ms-grid-row: 1;
+    display: block;
+}
+
+.button_look {
+    font-family: "Comic Sans MS", serif;
+    height: 60px;
+    width: 210px;
+    border: #242424 2px solid;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #F4F0F0;
+    margin-top: 10px;
+}
+
+.button_look:hover {
+    background-color: #242424;
+    color: #F4F0F0;
+    cursor: pointer;
+}
